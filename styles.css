@@ -148,13 +148,20 @@ body {
 }
 
 .description {
-  margin: 22px;
+  
   font-size: 1rem;
   color: #666;
 	
 }
 .description ul{
 	list-style:numbers;
+	margin-left: 22px;
+	margin-top:10px
+}
+.description h3{
+margin-top:10px;
+font-size: 1.1rem;
+color: #333;
 }
 /* Button */
 .add-to-cart {
